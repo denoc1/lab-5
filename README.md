@@ -20,6 +20,8 @@ Be sure to include:
 -	Necessary variables of the appropriate type along the way to solve the problem
 -	Output is in a readable format
 -	Output is based on the original value of the totalCents.  If totalCents is changed, the output should change appropriately.
+-	Be sure to test your code on a variety of initial values to be sure your code is working properly for different cases.
+    What cases should you try?
 -	Submit your assignment by making a COMMIT with a COMMIT comment, then SYNC CHANGES
 
 
